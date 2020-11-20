@@ -31,7 +31,7 @@
                     {
                         "name": "Blue Player",
                         "fatimaRpcPath": "NONE",
-                        "playerType": "AI-TIT-FOR-TAT",
+                        "playerType": "AI-ALTRUISTIC",
                         "interactionType": "NONE"
                     }
                 ],
